@@ -101,7 +101,7 @@
         "enema": "灌腸",
         "shemale": "人妖",
         "pegging": "逆推",
-        "gaping": "脱出",
+        "gaping": "脫出",
         "x-ray": "透視",
         "bbm": "肥男",
         "footjob": "足交",
@@ -238,7 +238,7 @@
         "poor-grammar": "語法不佳",
         "cheerleader": "啦啦隊服",
         "uncensored": "無修正",
-        "prolapse": "脱出",
+        "prolapse": "脫出",
         "tail": "尾巴",
         "mouse-girl": "鼠耳娘",
         "horns": "角",
@@ -255,6 +255,7 @@
         "closed-eyes": "閉眼",
         "dog-girl": "犬娘",
         "wolf-girl": "狼娘",
+        "wolf-boy": "狼男孩",
         "layer-cake": "夾心餅",
         "tomboy": "假小子",
         "freckles": "雀斑",
@@ -323,7 +324,7 @@
         "lizard-girl": "蜥蜴娘",
         "snake-girl": "蛇娘",
         "big-clit": "大陰蒂",
-        "big-balls": "大睪丸",
+        "big-balls": "大睾丸",
         "dog-boy": "狗男孩",
         "feminization": "女性化",
         "brother": "兄弟同士",
@@ -426,6 +427,7 @@
         "missing-cover": "缺少封面",
         "alien-girl": "外星人",
         "western-non-h": "無H",
+        "non-h": "無H",
         "uncle": "同性亂倫",
         "stewardess": "CA制服",
         "monkey-boy": "猴男孩",
@@ -519,7 +521,11 @@
         "clit-stimulation": "陰蒂刺激",
         "clit-insertion": "陰蒂插入",
         "multipanel-sequence": "多面板序列",
-        "school-gym-uniform": "學校體育服"
+        "school-gym-uniform": "學校體育服",
+        "dickgirl-on-female": "大屌女孩",
+        "painted-nails": "異色指甲",
+        "dragon": "龍",
+        "wolf": "狼"
     },
     "parodies": {
         "original": "原創",
@@ -809,7 +815,11 @@
         "yuru-camp-laid-back-camp": "搖曳露營△",
         "yuruyuri": "輕鬆百合",
         "yuuki-yuuna-wa-yuusha-de-aru": "結城友奈是勇者",
-        "yuyushiki": "YUYU式"
+        "yuyushiki": "YUYU式",
+        "sousou-no-frieren-frieren-beyond-journeys-end": "葬送的芙莉蓮",
+        "sennen-sensou-aigis": "千年戰爭Aigis",
+        "xenoblade-chronicles-2": "異度神劍2",
+        "idoly-pride": "偶像榮耀"
     },
     "del": [
         "clothed-male-nude-female",
