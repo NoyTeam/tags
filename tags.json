@@ -278,6 +278,7 @@
         "garter-belt": "吊襪帶",
         "gasmask": "防毒面具",
         "gender-change": "性轉換",
+        "gender-bender": "性轉換",
         "gender-morph": "男體化",
         "genital-piercing": "性器穿孔",
         "ghost": "幽靈",
@@ -558,7 +559,6 @@
         "rimjob": "舔肛",
         "robot": "機器人",
         "rough-grammar": "語法差",
-        "rough-translation": "渣翻",
         "ryona": "凌虐",
         "saliva": "唾液",
         "sample": "樣本",
@@ -6450,6 +6450,6 @@
         "shounan-no-tamasu",
         "gender-morph",
         "extraneous-ads",
-        "halo"
+        "rough-translation"
     ]
 }
